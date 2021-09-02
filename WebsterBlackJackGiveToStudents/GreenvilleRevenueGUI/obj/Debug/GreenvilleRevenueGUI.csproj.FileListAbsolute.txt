@@ -1,0 +1,77 @@
+C:\C#\Chapter.03\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe.config
+C:\C#\Chapter.03\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe
+C:\C#\Chapter.03\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.pdb
+C:\C#\Chapter.03\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csprojResolveAssemblyReference.cache
+C:\C#\Chapter.03\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Form1.resources
+C:\C#\Chapter.03\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\C#\Chapter.03\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.GenerateResource.Cache
+C:\C#\Chapter.03\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.exe
+C:\C#\Chapter.03\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.pdb
+C:\CSharp6\Chapter03\Solutions\Cases\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe.config
+C:\CSharp6\Chapter03\Solutions\Cases\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.exe
+C:\CSharp6\Chapter03\Solutions\Cases\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.pdb
+C:\CSharp6\Chapter03\Solutions\Cases\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe
+C:\CSharp6\Chapter03\Solutions\Cases\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.pdb
+C:\CSharp6\Chapter03\Solutions\Cases\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csprojResolveAssemblyReference.cache
+C:\CSharp6\Chapter03\Solutions\Cases\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Form1.resources
+C:\CSharp6\Chapter03\Solutions\Cases\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\CSharp6\Chapter03\Solutions\Cases\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.GenerateResource.Cache
+C:\Users\rwebster\Desktop\fswFall2019\COP 2360 C#Programming\solutions-chapters\Chapter03\Cases\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe.config
+C:\Users\rwebster\Desktop\fswFall2019\COP 2360 C#Programming\solutions-chapters\Chapter03\Cases\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe
+C:\Users\rwebster\Desktop\fswFall2019\COP 2360 C#Programming\solutions-chapters\Chapter03\Cases\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\rwebster\Desktop\fswFall2019\COP 2360 C#Programming\solutions-chapters\Chapter03\Cases\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csprojAssemblyReference.cache
+C:\Users\rwebster\Desktop\fswFall2019\COP 2360 C#Programming\solutions-chapters\Chapter03\Cases\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Form1.resources
+C:\Users\rwebster\Desktop\fswFall2019\COP 2360 C#Programming\solutions-chapters\Chapter03\Cases\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\Users\rwebster\Desktop\fswFall2019\COP 2360 C#Programming\solutions-chapters\Chapter03\Cases\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.GenerateResource.cache
+C:\Users\rwebster\Desktop\fswFall2019\COP 2360 C#Programming\solutions-chapters\Chapter03\Cases\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.CoreCompileInputs.cache
+C:\Users\rwebster\Desktop\fswFall2019\COP 2360 C#Programming\solutions-chapters\Chapter03\Cases\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.exe
+C:\Users\rwebster\Desktop\fswFall2019\COP 2360 C#Programming\solutions-chapters\Chapter03\Cases\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\rwebster\Desktop\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe.config
+C:\Users\rwebster\Desktop\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe
+C:\Users\rwebster\Desktop\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\rwebster\Desktop\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csprojAssemblyReference.cache
+C:\Users\rwebster\Desktop\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Form1.resources
+C:\Users\rwebster\Desktop\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\Users\rwebster\Desktop\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.GenerateResource.cache
+C:\Users\rwebster\Desktop\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.CoreCompileInputs.cache
+C:\Users\rwebster\Desktop\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.exe
+C:\Users\rwebster\Desktop\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\rwebster\Desktop\fswFall2019\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe.config
+C:\Users\rwebster\Desktop\fswFall2019\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe
+C:\Users\rwebster\Desktop\fswFall2019\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\rwebster\Desktop\fswFall2019\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csprojAssemblyReference.cache
+C:\Users\rwebster\Desktop\fswFall2019\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Form1.resources
+C:\Users\rwebster\Desktop\fswFall2019\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\Users\rwebster\Desktop\fswFall2019\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.GenerateResource.cache
+C:\Users\rwebster\Desktop\fswFall2019\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.CoreCompileInputs.cache
+C:\Users\rwebster\Desktop\fswFall2019\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.exe
+C:\Users\rwebster\Desktop\fswFall2019\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\rwebster\Desktop\fswFall2019\COP 2360 C#Programming\WebsterLottery5\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe.config
+C:\Users\rwebster\Desktop\fswFall2019\COP 2360 C#Programming\WebsterLottery5\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe
+C:\Users\rwebster\Desktop\fswFall2019\COP 2360 C#Programming\WebsterLottery5\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\rwebster\Desktop\fswFall2019\COP 2360 C#Programming\WebsterLottery5\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csprojAssemblyReference.cache
+C:\Users\rwebster\Desktop\fswFall2019\COP 2360 C#Programming\WebsterLottery5\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Form1.resources
+C:\Users\rwebster\Desktop\fswFall2019\COP 2360 C#Programming\WebsterLottery5\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\Users\rwebster\Desktop\fswFall2019\COP 2360 C#Programming\WebsterLottery5\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.GenerateResource.cache
+C:\Users\rwebster\Desktop\fswFall2019\COP 2360 C#Programming\WebsterLottery5\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.CoreCompileInputs.cache
+C:\Users\rwebster\Desktop\fswFall2019\COP 2360 C#Programming\WebsterLottery5\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.exe
+C:\Users\rwebster\Desktop\fswFall2019\COP 2360 C#Programming\WebsterLottery5\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\rwebster\Desktop\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csprojAssemblyReference.cache
+C:\Users\rwebster\Desktop\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Form1.resources
+C:\Users\rwebster\Desktop\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\Users\rwebster\Desktop\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.GenerateResource.cache
+C:\Users\rwebster\Desktop\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.exe
+C:\Users\rwebster\Desktop\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\rwebster\Desktop\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe.config
+C:\Users\rwebster\Desktop\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe
+C:\Users\rwebster\Desktop\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\pbrun\Desktop\C# II\Assignments\WebsterBlackJackGiveToStudents\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.AssemblyReference.cache
+C:\Users\pbrun\Desktop\C# II\Assignments\WebsterBlackJackGiveToStudents\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Form1.resources
+C:\Users\pbrun\Desktop\C# II\Assignments\WebsterBlackJackGiveToStudents\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\Users\pbrun\Desktop\C# II\Assignments\WebsterBlackJackGiveToStudents\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.GenerateResource.cache
+C:\Users\pbrun\Desktop\C# II\Assignments\WebsterBlackJackGiveToStudents\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.CoreCompileInputs.cache
+C:\Users\pbrun\Desktop\C# II\Assignments\WebsterBlackJackGiveToStudents\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.exe
+C:\Users\pbrun\Desktop\C# II\Assignments\WebsterBlackJackGiveToStudents\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\pbrun\Desktop\C# II\Assignments\WebsterBlackJackGiveToStudents\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe.config
+C:\Users\pbrun\Desktop\C# II\Assignments\WebsterBlackJackGiveToStudents\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe
+C:\Users\pbrun\Desktop\C# II\Assignments\WebsterBlackJackGiveToStudents\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.pdb
